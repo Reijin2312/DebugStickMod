@@ -1,13 +1,4 @@
 {
-  "itemGroup.debugstickmod": "Example Mod Tab",
-  "block.debugstickmod.example_block": "Example Block",
-  "item.debugstickmod.example_item": "Example Item",
-
-  "debugstickmod.configuration.title": "DebugStickMod Configs",
-  "debugstickmod.configuration.section.debugstickmod.common.toml": "DebugStickMod Configs",
-  "debugstickmod.configuration.section.debugstickmod.common.toml.title": "DebugStickMod Configs",
-  "debugstickmod.configuration.items": "Item List",
-  "debugstickmod.configuration.logDirtBlock": "Log Dirt Block",
-  "debugstickmod.configuration.magicNumberIntroduction": "Magic Number Text",
-  "debugstickmod.configuration.magicNumber": "Magic Number"
+  "itemGroup.debugstickmod": "Debug Stick Mod",
+  "item.debugstickmod.debug_stick": "Debug Stick"
 }

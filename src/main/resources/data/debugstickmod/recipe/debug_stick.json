@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:chorus_fruit" },
+    { "item": "minecraft:stick" }
+  ],
+  "result": {
+    "id": "minecraft:debug_stick",
+    "count": 1
+  }
+}
