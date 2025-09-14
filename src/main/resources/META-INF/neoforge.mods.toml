@@ -7,7 +7,7 @@ license="MIT"
 modId="debugstickmod"
 version="1.0.0"
 displayName="Survival Debug Stick"
-authors="Твоё имя"
+authors="Reijin"
 description='''
 Позволяет использовать ванильную палку отладки в режиме выживания
 и добавляет для неё крафт (палка + плод хоруса).
