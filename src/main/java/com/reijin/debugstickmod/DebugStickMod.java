@@ -98,6 +98,12 @@ public class DebugStickMod {
         public static void onLeftClick(PlayerInteractEvent.LeftClickBlock event) {
             Player player = event.getEntity();
             Level level = event.getLevel();
+
+            if (level.isClientSide) {
+                event.setCanceled(true);
+                return;
+            }
+
             ItemStack stack = player.getMainHandItem();
 
             if (stack.getItem() != Items.DEBUG_STICK) return;
