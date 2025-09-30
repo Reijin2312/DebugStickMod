@@ -1,6 +1,8 @@
 DebugStickMod
 =======
-A very simple 1.21.1 neoforge mod that allows players to use the debug stick in survival mode. It can be crafted from a stick and a chorus fruit.
+A very simple 1.21.1 neoforge mod that allows players to use the debug stick in survival mode. It can be crafted from a stick and a chorus fruit. You can find original mode here: https://modrinth.com/mod/survival-debug-stick
+
+![photo_2025-09-30_10-39-30](https://github.com/user-attachments/assets/ee368ca5-f1e7-49cd-988f-2d625c420b9d)
 
 Installation information
 =======
